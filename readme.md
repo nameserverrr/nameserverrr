@@ -12,10 +12,34 @@ I like messing around with:
 
 I am always looking for new opportunities to develop my skills, and get some hands on experience through collaborating with other developers
 
+### Languages & Runtime
+
+<p>
+  <img src="https://cdn.simpleicons.org/react" width="40" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="40" />
+  <img src="https://cdn.simpleicons.org/express" width="40" />
+  <img src="https://cdn.simpleicons.org/docker" width="40" />
+  <img src="https://cdn.simpleicons.org/linux" width="40" />
+  <img src="https://cdn.simpleicons.org/proxmox" width="40" />
+  <img src="https://cdn.simpleicons.org/mongodb" width="40" />
+  <img src="https://cdn.simpleicons.org/mysql" width="40" />
+  <img src="https://cdn.simpleicons.org/postgresql" width="40" />
+  <img src="https://cdn.simpleicons.org/redis" width="40" />
+  <img src="https://cdn.simpleicons.org/typescript" width="40" />
+  <img src="https://cdn.simpleicons.org/javascript" width="40" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" />
+</p>
+
+
 Want to know more about me & potentially hire me? 
 - My website is https://callumcollins.com
 - Contact me via email with: questions@callumcollins.com
 
-> Starting in September 2026, Google will block any Android app whose developer hasn't registered and provided government ID. This affects every Android device worldwide and us developers, Learn more: https://keepandroidopen.org
+# Developer Rights and App Store Policy
+I support efforts to make app distribution platforms more open and fair for developers.
 
-> I support the CAF (Coalition for App Fairness). It was created by app devs & companies pushing Apple for a more open and fair app store. Honestly? The new Government ID system is all stupid!
+I'm particularly interested in the ongoing discussions around developer verification, government ID requirements, app store policies, and platform control.
+
+I support the Coalition for App Fairness (CAF) and its work advocating for a more competitive and developer-friendly app ecosystem.
+
+> Developers should have meaningful choices over how they build, distribute, and monetize their software. 
