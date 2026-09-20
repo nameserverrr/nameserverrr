@@ -12,28 +12,10 @@ I like messing around with:
 
 I am always looking for new opportunities to develop my skills, and get some hands on experience through collaborating with other developers
 
-### Languages & Runtime
-
-<p>
-  <img src="https://cdn.simpleicons.org/react" width="40" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="40" />
-  <img src="https://cdn.simpleicons.org/express" width="40" />
-  <img src="https://cdn.simpleicons.org/docker" width="40" />
-  <img src="https://cdn.simpleicons.org/linux" width="40" />
-  <img src="https://cdn.simpleicons.org/proxmox" width="40" />
-  <img src="https://cdn.simpleicons.org/mongodb" width="40" />
-  <img src="https://cdn.simpleicons.org/mysql" width="40" />
-  <img src="https://cdn.simpleicons.org/postgresql" width="40" />
-  <img src="https://cdn.simpleicons.org/redis" width="40" />
-  <img src="https://cdn.simpleicons.org/typescript" width="40" />
-  <img src="https://cdn.simpleicons.org/javascript" width="40" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="40" />
-</p>
-
-
-Want to know more about me & potentially hire me? 
-- My website is https://callumcollins.com
-- Contact me via email with: questions@callumcollins.com
+# Core Ecosystem
+├── Infrastructure  : Docker • Nginx Proxy Manager • Self-Hosted Stacks • Traefik • Proxmox 
+├── Identity & Auth : Authelia • LLDAP • Vaultwarden • Authentik
+└── Development     : PHP • Go • MySQL • PostgreSQL • Tailwind CSS • Next.js • C# • TypeScript • JavaScript
 
 # Developer Rights and App Store Policy
 I support efforts to make app distribution platforms more open and fair for developers.
