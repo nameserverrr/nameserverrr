@@ -13,9 +13,11 @@ I like messing around with:
 I am always looking for new opportunities to develop my skills, and get some hands on experience through collaborating with other developers
 
 # Core Ecosystem
+```
 ├── Infrastructure  : Docker • Nginx Proxy Manager • Self-Hosted Stacks • Traefik • Proxmox 
 ├── Identity & Auth : Authelia • LLDAP • Vaultwarden • Authentik
 └── Development     : PHP • Go • MySQL • PostgreSQL • Tailwind CSS • Next.js • C# • TypeScript • JavaScript
+```
 
 # Developer Rights and App Store Policy
 I support efforts to make app distribution platforms more open and fair for developers.
