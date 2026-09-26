@@ -2,13 +2,14 @@
 
 I am a student based in the United Kingdom!
 
-I own a game server and VPS hosting company! We're coming soon and not officially open yet, so there isn't a link which is provided here!
+I own a game server and VPS hosting company! Join our discord: https://discord.gg/8VwcZFejR8
 
 I like messing around with: 
 - infrastructure,
 - self-hosted tools and my own personal hardware
 - any new tech that looks interesting
 - networking and cyber security
+- typescript and making my own stuff
 
 I am always looking for new opportunities to develop my skills, and get some hands on experience through collaborating with other developers
 
@@ -27,3 +28,6 @@ I'm particularly interested in the ongoing discussions around developer verifica
 I support the Coalition for App Fairness (CAF) and its work advocating for a more competitive and developer-friendly app ecosystem.
 
 > Developers should have meaningful choices over how they build, distribute, and monetize their software. 
+
+# Availability for Work (AWF)
+I am not available to be hired for any companies at the moment. For any enquiries, contact my work email @ callum@nullcloud.co.uk
